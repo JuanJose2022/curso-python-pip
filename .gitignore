@@ -1,3 +1,6 @@
+#para que git ignore subir estas imágenes al repositorio, ya que una buena práctica es subir solo texto...
+*.png 
+
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,macos,python
 
